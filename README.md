@@ -5,6 +5,6 @@ Clone do Instagram
 ![cloneInstagram2](https://github.com/patriciastarck/projIndMobile/assets/99268893/ac8919a2-ac04-474e-9f6a-d650304cd798)
 Dependências utilizadas: 
 
-npx expo install react-native-screens react-native-safe-area-context
-npx expo install react-native-svg
+npx expo install react-native-screens react-native-safe-area-context<br />
+npx expo install react-native-svg<br />
 npm i -D react-native-svg-transformer
